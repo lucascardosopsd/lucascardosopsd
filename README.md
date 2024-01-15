@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @lucascardosopsd
 - 👀 I’m interested in Web Dev
-- 🌱 I’m currently learning TS
-- 💞️ I’m looking to collaborate on TS projects
-- 📫 How to reach me: Lucascardosopsd@gmail.com
+- 🌱 I’m currently learning Next.js
+- 💞️ I’m looking to collaborate on Next.js projects
+- 📫 How to reach me
+  - Lucascardosopsd@gmail.com
+  - https://www.linkedin.com/in/lcpsd/
