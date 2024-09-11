@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lucascardosopsd
 - 👀 I’m interested in Web Dev
-- 🌱 I’m currently learning Next.js
+- 🌱 I’m currently using Next.js + Tailwind + Prisma
 - 💞️ I’m looking to collaborate on Next.js projects
 - 📫 How to reach me
   - Lucascardosopsd@gmail.com
